@@ -14,6 +14,7 @@ To Design a wireframe diagram for a generic application or website using Balsami
 
 
 ## Output:
+https://github.com/rajashri2006/Exp-04-ui-ux/blob/main/Experiment.4%20(1).pdf
 
 ## Result:
 To Design a wireframe diagram for a generic application or website using Balsamiq is completed
